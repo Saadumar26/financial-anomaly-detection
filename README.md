@@ -77,8 +77,6 @@ We use a combination of statistical techniques and machine learning algorithms t
 
 ---
 
----
-
 ##  How to Run
 
 1. Clone the repository:
